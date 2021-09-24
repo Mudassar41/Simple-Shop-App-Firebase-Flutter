@@ -1,0 +1,193 @@
+{
+  "project_info": {
+    "project_number": "436615043478",
+    "firebase_url": "https://food-8b92b.firebaseio.com",
+    "project_id": "food-8b92b",
+    "storage_bucket": "food-8b92b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:982d083da57d9d412b25b7",
+        "android_client_info": {
+          "package_name": "com.babo.adminshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:6352d57a6a21e6512b25b7",
+        "android_client_info": {
+          "package_name": "com.babo.easybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:8da2d1534b6706af2b25b7",
+        "android_client_info": {
+          "package_name": "com.babo.loginregisterui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:df77bcc62b5ffced2b25b7",
+        "android_client_info": {
+          "package_name": "com.babo.shoppingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:7e9e7bded85c69ee",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-7emcvhq7r5cbvh087ihuon4676ck66e2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food",
+            "certificate_hash": "ff0dc7dca7b7e7df86fd4339249a8a3bf1179acd"
+          }
+        },
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436615043478:android:aa2238bad6b2b3302b25b7",
+        "android_client_info": {
+          "package_name": "com.sasteyguru.ecommerceappdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb08fZGCMEgHc433E_yET5hYeK5VRbmjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436615043478-mu94sd21jpuq3ilg65vtsphfi1n2nbh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
